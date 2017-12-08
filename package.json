@@ -2,6 +2,10 @@
   "name": "file-down",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hyt7212/file-down.git"
+  },
   "author": "Kerlin",
   "license": "MIT"
 }
